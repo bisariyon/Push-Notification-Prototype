@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "807317130439",
+    "project_id": "push-notification-b41a7",
+    "storage_bucket": "push-notification-b41a7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807317130439:android:0d902e7094524da435c2e2",
+        "android_client_info": {
+          "package_name": "com.getcapacitor.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3nHIIAC2Xh_P_6Sq1yYHNsQoMm3dO0eo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
