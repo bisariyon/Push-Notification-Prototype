@@ -1,3 +1,8 @@
+## 📄 Documentation done by me
+
+You can find the full documentation [here](https://docs.google.com/document/d/1oNtOgrBc-nx_Wd7P7adIk-FDZFtVuaLG/edit?usp=sharing&ouid=104010401355074283083&rtpof=true&sd=true).
+
+
 
 The server will start on `http://localhost:3000`.
 
